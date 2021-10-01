@@ -1,2 +1,2 @@
-# calculator
+# calcolatrice
 Calcolatrice semplice Js
